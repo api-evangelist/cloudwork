@@ -1,0 +1,68 @@
+{
+    "name": "CloudWork",
+    "description": "<p><span>Cloudwork is a service that allows users to automate tasks between Google Apps, Salesforce, Evernote, Zoho, Twitter, Freshbooks, MailChimp, Zendesk, Dropbox, WordPress and others.<\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/serviceproviders\/cloudwork-logo.png",
+    "tags": [
+        "api lifeycle",
+        "api service provider",
+        "automation",
+        "have api",
+        "interoperability",
+        "ipaas"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cloudwork\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CloudWork",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/serviceproviders\/cloudwork-logo.png",
+            "humanURL": "https:\/\/cloudwork.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cloudwork-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cloudwork-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.cloudwork.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.cloudwork.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/cloudwork"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/cloudwork"
+        },
+        {
+            "type": "Integrations",
+            "url": "https:\/\/cloudwork.com\/integrations"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/cloudwork"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/cloudwork.com\/"
+        }
+    ]
+}
